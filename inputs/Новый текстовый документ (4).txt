@@ -1,0 +1,15 @@
+This function is called for each iteration of the folder scan.
+
+The info variable of type os.FileInfo is important because we can get many information on the current file: the name, size, mode, modification time,if it’s a folder or a file,and the underlying data source.
+
+For example we could avoid processing folders by adding
+This function is called for each iteration of the folder scan.
+
+The info variable of type os.FileInfo is important because we can get many information on the current file: the name, size, mode, modification time,if it’s a folder or a file, and the underlying data source.
+
+For example we could avoid processing folders by adding
+This function is called for each iteration of the folder scan.
+
+The info variable of type os.FileInfo is important because we can get many information on the current file: the name, size, mode, modification time, if it’s a folder or a file, and the underlying data source.
+
+For example we could avoid processing folders by adding
